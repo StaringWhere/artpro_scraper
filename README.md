@@ -1,4 +1,4 @@
-# ArtPro Crawler
+# ArtPro Scraper
 
 Get the details of lots on [ArtPro](artpro.com) and write them into an excel sheet.
 
